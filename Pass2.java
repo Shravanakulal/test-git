@@ -5,6 +5,11 @@ import java.io.FileWriter;
 import java.util.ArrayList;
 
 //2pass assembler
+
+
+
+//fetch
+
 public class Pass2 {
 	ArrayList<TableRow> SYMTAB,LITTAB;
 
