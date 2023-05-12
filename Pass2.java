@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.ArrayList;
 
-
+//2pass assembler
 public class Pass2 {
 	ArrayList<TableRow> SYMTAB,LITTAB;
 
